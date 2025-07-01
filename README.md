@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hotel_Bookings
 =======
 # Gestion des Réservations
@@ -45,3 +46,6 @@ GestiondesRéservations/
 ## License
 This project is for educational purposes. 
 >>>>>>> 3242a50 (First commit)
+=======
+# Hotel_Bookings
+>>>>>>> 3d142e7844de32c90d8cc3bf46a1f5fc9af35081
