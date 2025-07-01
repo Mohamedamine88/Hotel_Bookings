@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Hotel_Bookings
-=======
-# Gestion des Réservations
+# Hotel bookings
 
 A Java Swing application for managing hotel or room reservations. This project allows users to manage clients, rooms, categories, and reservations through a graphical user interface.
 
@@ -28,13 +24,13 @@ GestiondesRéservations/
 
 ## Requirements
 - Java JDK 8 or higher
-- NetBeans IDE (recommended) or any Java IDE
-- Database (e.g., MySQL, SQLite)
+- NetBeans IDE or any Java IDE
+- Database (MySQL, SQLite)
 
 ## Build & Run
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/GestiondesReservations.git
+   git clone https://github.com/Mohamedamine88/Hotel_Bookings.git
    ```
 2. **Open the project in NetBeans or your preferred IDE.**
 3. **Configure the database connection** in `src/Connexion/Connexion.java` as needed.
@@ -44,8 +40,4 @@ GestiondesRéservations/
    ```
 
 ## License
-This project is for educational purposes. 
->>>>>>> 3242a50 (First commit)
-=======
-# Hotel_Bookings
->>>>>>> 3d142e7844de32c90d8cc3bf46a1f5fc9af35081
+This project was developed as part of the Java subject projects in my 4IIR program.
